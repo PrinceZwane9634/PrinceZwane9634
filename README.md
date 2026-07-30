@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi, I'm Prince Zwane 👋
 
-<!--
-**PrinceZwane9634/PrinceZwane9634** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+Fleet Consultant with experience in fleet operations, customer case management, warranty processes, and business reporting.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently transitioning into Data Analytics with a focus on:
+
+- Python
+- SQL
+- Power BI
+- Excel
+- Machine Learning
+- Business Intelligence
+
+## Skills
+
+### Data Analytics
+- Python
+- SQL
+- Power BI
+- Excel
+- Pandas
+- NumPy
+- Seaborn
+- Matplotlib
+- Scikit-Learn
+
+### Business
+- Fleet Operations
+- Customer Experience
+- Data Analysis
+- Reporting
+- Problem Solving
+
+## Featured Projects
+
+### Used Car Price Prediction
+Machine learning project using Linear Regression and Random Forest Regression to predict used vehicle prices.
+
+### Nissan Fleet Case Analysis Dashboard
+Power BI dashboard analyzing fleet case trends, dealer performance, and root causes of delays.
+
+## Current Learning
+
+- Machine Learning
+- Advanced Power BI
+- Data Visualization
+- Fraud Analytics
+
+## Contact
+
+LinkedIn: Add your LinkedIn profile link here
