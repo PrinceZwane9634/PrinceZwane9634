@@ -50,4 +50,5 @@ Power BI dashboard analyzing fleet case trends, dealer performance, and root cau
 
 ## Contact
 
-LinkedIn: Add your LinkedIn profile link here
+Email: mkhwanaziprince2@gmail.com
+Cell number: 075 037 8750
